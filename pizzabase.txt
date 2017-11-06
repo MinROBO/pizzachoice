@@ -1,0 +1,4 @@
+thick
+medium
+thin
+
